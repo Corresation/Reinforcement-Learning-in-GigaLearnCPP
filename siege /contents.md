@@ -20,7 +20,7 @@
   <p style="line-height:1.6;">
     The purpose of Siege is to experiment with my first genuine Rocket League bot using this framework.<br>
     It acts as a run to document what works and what doesn't work.<br>
-    No population based training, IDMs, BCMs etc — Siege learns with experience & PPO!
+    No population based training, IDMs, BCMs etc - Siege learns with experience and PPO!
   </p>
 
   <p style="line-height:1.6;">
@@ -37,7 +37,7 @@
   <p style="line-height:1.6;">
     Training began with nothing more than basic rewards and minimal necessities.<br>
     Siege has ~3 million parameters total, and is being taught to learn ground play as best as possible.<br>
-    Early stages focus on team ability and consistency with fundementals.<br>
+    Early stages focus on team ability and consistency with fundamentals.<br>
     The design is intentionally minimal to observe each improvement as it happens.
   </p>
 
@@ -57,3 +57,8 @@
   <hr style="width:80%; border:1px solid #333; margin:40px auto;">
 
   <p align="center" style="color:#777;">
+    Created and developed by <b style="color:#fff;">Corresation</b><br>
+    Built using <b style="color:#fff;">GigaLearnCPP</b> and <b style="color:#fff;">RLGymCPP</b>
+  </p>
+
+</div>
