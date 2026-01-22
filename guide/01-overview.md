@@ -1,4 +1,4 @@
-# Introduction
+# 01: Introduction
 
 ## What is GigaLearnCPP exactly?
 GigaLearnCPP is a PPO-based training framework for Rocket League bots. It runs on RocketSim and trains agents through reward-driven learning.
