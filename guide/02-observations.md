@@ -29,7 +29,7 @@ Set in `ExampleMain.cpp`:
 result.obsBuilder = new AdvancedObs();
 ```
 
-## Key Points
+## Key Points & Ideas
 - Obs = numbers describing game state
 - Bot only learns from what it sees
 - Missing info = harder learning
