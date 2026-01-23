@@ -13,7 +13,7 @@ https://github.com/Kuenec
 - https://github.com/Kuenec/GigaLearn-RLBot-Example  
   Custom RLBot Implementation via Python
 
-- https://github.com/Kuenec/GigaLearn-RLBot-Example  
+- https://github.com/Kuenec/Karma 
   Karma, created in Python; translate rewards/practices to C++
 
 ---
