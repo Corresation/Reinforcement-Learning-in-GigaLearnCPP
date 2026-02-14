@@ -2,17 +2,17 @@
 setlocal
 
 :: python setup
-set "PY_HOME=C:\Users\jaden\AppData\Local\Programs\Python\Python311"
+set "PY_HOME=C:\Users\<username>\path\to\Python<ver>"
 set "PYTHONHOME=%PY_HOME%"
 set "PYTHONPATH=%PY_HOME%\Lib;%PY_HOME%\DLLs"
 set "PATH=%PY_HOME%;%PATH%"
 set "PYTHON_CMD=%PY_HOME%\python.exe"
 
 :: paths
-set "BOT_DIR=C:\Users\jaden\Downloads\GigaLearnCPP-Leak\out\build\x64-Release"
+set "BOT_DIR=C:\Users\<username>\path\to\build\"
 set "BOT_EXE=GigaLearnBot.exe"
 
-set "VIS_DIR=C:\Users\jaden\Downloads\GigaLearnCPP-Leak\out\build\x64-Release\RocketSimVis-main\src"
+set "VIS_DIR=C:\Users\<username>\path\to\RocketSimVis-main\src"
 set "VIS_SCRIPT=main.py"
 
 :loop
@@ -37,3 +37,4 @@ echo.
 echo Bot closed. Restarting...
 timeout /t 2 >nul
 goto loop
+
